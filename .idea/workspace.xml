@@ -2,114 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb6787f1-c232-44b5-b1ea-2a99b02ad054" name="Default Changelist" comment="第一次提交">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-commen/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-commen/src/main/java/com/longlong/repast/Staticstatus/StaticCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-commen/src/main/java/com/longlong/repast/annotation/LoginLogAnnotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-commen/src/main/java/com/longlong/repast/base/BaseController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-commen/src/main/java/com/longlong/repast/base/ResultData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-commen/src/main/java/com/longlong/repast/status/LoginStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-commen/src/main/java/com/longlong/repast/status/StatusEnums.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-commen/src/main/java/com/longlong/repast/util/AddressUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-commen/src/main/java/com/longlong/repast/util/ByteUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-commen/src/main/java/com/longlong/repast/util/CookieUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-commen/src/main/java/com/longlong/repast/util/DateUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-commen/src/main/java/com/longlong/repast/util/FileNameUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-commen/src/main/java/com/longlong/repast/util/IDUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-commen/src/main/java/com/longlong/repast/util/IPUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-commen/src/main/java/com/longlong/repast/util/JSONUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-commen/src/main/java/com/longlong/repast/util/StringUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-commen/target/classes/com/longlong/repast/Staticstatus/StaticCode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-commen/target/classes/com/longlong/repast/annotation/LoginLogAnnotation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-commen/target/classes/com/longlong/repast/base/BaseController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-commen/target/classes/com/longlong/repast/base/ResultData.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-commen/target/classes/com/longlong/repast/status/LoginStatus.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-commen/target/classes/com/longlong/repast/status/StatusEnums.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-commen/target/classes/com/longlong/repast/util/AddressUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-commen/target/classes/com/longlong/repast/util/ByteUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-commen/target/classes/com/longlong/repast/util/CookieUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-commen/target/classes/com/longlong/repast/util/DateUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-commen/target/classes/com/longlong/repast/util/FileNameUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-commen/target/classes/com/longlong/repast/util/IDUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-commen/target/classes/com/longlong/repast/util/IPUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-commen/target/classes/com/longlong/repast/util/JSONUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-commen/target/classes/com/longlong/repast/util/StringUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-config/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-config/src/main/java/com/longlong/repast/config/RedisConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-config/src/main/java/com/longlong/repast/properties/RedisProperties.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-config/src/main/resources/properties/redis.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-consumer-management/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-consumer-management/repast-app-memberinfo-consumer-6081/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-consumer-management/repast-app-memberinfo-consumer-6081/src/main/java/com/longlong/repast/ApplicationRun6081.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-consumer-management/repast-app-memberinfo-consumer-6081/src/main/java/com/longlong/repast/aspect/LogAspect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-consumer-management/repast-app-memberinfo-consumer-6081/src/main/java/com/longlong/repast/config/Swagger2Config.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-consumer-management/repast-app-memberinfo-consumer-6081/src/main/java/com/longlong/repast/controller/MemberController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-consumer-management/repast-app-memberinfo-consumer-6081/src/main/resources/config/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-consumer-management/repast-app-memberinfo-consumer-6081/target/classes/com/longlong/repast/ApplicationRun6081.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-consumer-management/repast-app-memberinfo-consumer-6081/target/classes/com/longlong/repast/aspect/LogAspect.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-consumer-management/repast-app-memberinfo-consumer-6081/target/classes/com/longlong/repast/config/Swagger2Config.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-consumer-management/repast-app-memberinfo-consumer-6081/target/classes/com/longlong/repast/controller/MemberController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-consumer-management/repast-app-memberinfo-consumer-6081/target/classes/config/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-eureka-7082/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-eureka-management/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-eureka-management/repast-app-eureka-7081/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-eureka-management/repast-app-eureka-7081/src/main/java/com/longlong/repast/ApplicationRun7081.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-eureka-management/repast-app-eureka-7081/src/main/resources/config/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-eureka-management/repast-app-eureka-7081/target/classes/com/longlong/repast/ApplicationRun7081.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-eureka-management/repast-app-eureka-7081/target/classes/config/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-eureka-management/repast-app-eureka-7083/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-eureka-management/repast-app-eureka-7083/src/main/java/com/longlong/repast/ApplicationRun7083.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-eureka-management/repast-app-eureka-7083/src/main/resources/config/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-eureka-management/repast-app-eureka-7084/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-eureka-management/repast-app-eureka-7084/src/main/java/com/longlong/repast/ApplicationRun7084.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-eureka-management/repast-app-eureka-7084/src/main/resources/config/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-management/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-management/repast-app-management-api/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-management/repast-app-management-api/src/main/java/com/longlong/repast/fallback/RepastFallBackFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-management/repast-app-management-api/src/main/java/com/longlong/repast/service/IRepastService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-management/repast-app-management-api/target/classes/com/longlong/repast/fallback/RepastFallBackFactory$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-management/repast-app-management-api/target/classes/com/longlong/repast/fallback/RepastFallBackFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-management/repast-app-management-api/target/classes/com/longlong/repast/service/IRepastService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-management/repast-app-management-mapper/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-management/repast-app-management-mapper/src/main/java/com/longlong/repast/mapper/LoginLogMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-management/repast-app-management-mapper/src/main/java/com/longlong/repast/mapper/MemberMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-management/repast-app-management-mapper/src/main/resources/mapper/LoginLogMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-management/repast-app-management-mapper/src/main/resources/mapper/MemberMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-management/repast-app-management-mapper/target/classes/com/longlong/repast/mapper/LoginLogMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-management/repast-app-management-mapper/target/classes/com/longlong/repast/mapper/MemberMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-management/repast-app-management-mapper/target/classes/mapper/LoginLogMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-management/repast-app-management-mapper/target/classes/mapper/MemberMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-management/repast-app-management-model/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-management/repast-app-management-model/src/main/java/com/longlong/repast/model/LoginLog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-management/repast-app-management-model/src/main/java/com/longlong/repast/model/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-management/repast-app-management-model/src/main/java/com/longlong/repast/page/PageInfoS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-management/repast-app-management-model/target/classes/com/longlong/repast/model/LoginLog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-management/repast-app-management-model/target/classes/com/longlong/repast/model/Member.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-management/repast-app-management-model/target/classes/com/longlong/repast/page/PageInfoS.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-management/repast-app-management-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-management/repast-app-management-service/src/main/java/com/longlong/repast/base/BaseService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-management/repast-app-management-service/src/main/java/com/longlong/repast/service/LoginLogService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-management/repast-app-management-service/src/main/java/com/longlong/repast/service/MemberService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-management/repast-app-management-service/target/classes/com/longlong/repast/base/BaseService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-management/repast-app-management-service/target/classes/com/longlong/repast/service/LoginLogService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-management/repast-app-management-service/target/classes/com/longlong/repast/service/MemberService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-parent.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-provider-management/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-provider-management/repast-app-memberinfo-provider-8081/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-provider-management/repast-app-memberinfo-provider-8081/src/main/java/com/longlong/repast/ApplicationRun8081.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-provider-management/repast-app-memberinfo-provider-8081/src/main/java/com/longlong/repast/controller/MemberController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-provider-management/repast-app-memberinfo-provider-8081/src/main/resources/config/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-provider-management/repast-app-memberinfo-provider-8081/src/main/resources/sql/qy_all.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-provider-management/repast-app-memberinfo-provider-8081/target/classes/com/longlong/repast/ApplicationRun8081.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-provider-management/repast-app-memberinfo-provider-8081/target/classes/com/longlong/repast/controller/MemberController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-provider-management/repast-app-memberinfo-provider-8081/target/classes/config/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-provider-management/repast-app-memberinfo-provider-8081/target/classes/sql/qy_all.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repast-app-zool-4081/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -307,8 +200,16 @@
       <workItem from="1583977111918" duration="105000" />
       <workItem from="1583995022872" duration="16753000" />
       <workItem from="1584016603328" duration="4145000" />
-      <workItem from="1584021733716" duration="1267000" />
+      <workItem from="1584021733716" duration="4596000" />
     </task>
+    <task id="LOCAL-00001" summary="第一次提交">
+      <created>1584023081963</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584023081963</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -359,18 +260,18 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="552" y="230" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.738@0.0.1366.738" timestamp="1583757377117" />
-    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1584022972581">
+    <state x="282" y="0" key="CommitChangelistDialog2" timestamp="1584026375655">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1584022972581" />
-    <state x="535" y="141" key="FileChooserDialogImpl" timestamp="1584022728526">
+    <state x="282" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1584026375655" />
+    <state x="535" y="141" key="FileChooserDialogImpl" timestamp="1584025648677">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="535" y="141" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1584022728526" />
-    <state x="527" y="258" width="312" height="294" key="Github.ShareDialog" timestamp="1584020832098">
+    <state x="535" y="141" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1584025648677" />
+    <state x="527" y="258" width="312" height="294" key="Github.ShareDialog" timestamp="1584026178036">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="527" y="258" width="312" height="294" key="Github.ShareDialog/0.0.1366.738@0.0.1366.738" timestamp="1584020832098" />
+    <state x="527" y="258" width="312" height="294" key="Github.ShareDialog/0.0.1366.738@0.0.1366.738" timestamp="1584026178036" />
     <state width="1306" height="19" key="GridCell.Tab.0.bottom" timestamp="1584016449780">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -427,6 +328,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state width="254" height="198" key="ShowFilterAction_Filter_Popup/0.0.1366.738@0.0.1366.738" timestamp="1583858425185" />
+    <state x="504" y="102" key="Vcs.Push.Dialog.v2" timestamp="1584026294739">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="504" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1584026294739" />
     <state x="71" y="50" key="new project wizard" timestamp="1583850423680">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
