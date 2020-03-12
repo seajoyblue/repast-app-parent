@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cb6787f1-c232-44b5-b1ea-2a99b02ad054" name="Default Changelist" comment="第一次提交">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-commen/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-commen/src/main/java/com/longlong/repast/Staticstatus/StaticCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-commen/src/main/java/com/longlong/repast/annotation/LoginLogAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-commen/src/main/java/com/longlong/repast/base/BaseController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-commen/src/main/java/com/longlong/repast/base/ResultData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-commen/src/main/java/com/longlong/repast/status/LoginStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-commen/src/main/java/com/longlong/repast/status/StatusEnums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-commen/src/main/java/com/longlong/repast/util/AddressUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-commen/src/main/java/com/longlong/repast/util/ByteUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-commen/src/main/java/com/longlong/repast/util/CookieUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-commen/src/main/java/com/longlong/repast/util/DateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-commen/src/main/java/com/longlong/repast/util/FileNameUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-commen/src/main/java/com/longlong/repast/util/IDUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-commen/src/main/java/com/longlong/repast/util/IPUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-commen/src/main/java/com/longlong/repast/util/JSONUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-commen/src/main/java/com/longlong/repast/util/StringUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-commen/target/classes/com/longlong/repast/Staticstatus/StaticCode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-commen/target/classes/com/longlong/repast/annotation/LoginLogAnnotation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-commen/target/classes/com/longlong/repast/base/BaseController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-commen/target/classes/com/longlong/repast/base/ResultData.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-commen/target/classes/com/longlong/repast/status/LoginStatus.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-commen/target/classes/com/longlong/repast/status/StatusEnums.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-commen/target/classes/com/longlong/repast/util/AddressUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-commen/target/classes/com/longlong/repast/util/ByteUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-commen/target/classes/com/longlong/repast/util/CookieUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-commen/target/classes/com/longlong/repast/util/DateUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-commen/target/classes/com/longlong/repast/util/FileNameUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-commen/target/classes/com/longlong/repast/util/IDUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-commen/target/classes/com/longlong/repast/util/IPUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-commen/target/classes/com/longlong/repast/util/JSONUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-commen/target/classes/com/longlong/repast/util/StringUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-config/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-config/src/main/java/com/longlong/repast/config/RedisConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-config/src/main/java/com/longlong/repast/properties/RedisProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-config/src/main/resources/properties/redis.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-consumer-management/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-consumer-management/repast-app-memberinfo-consumer-6081/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-consumer-management/repast-app-memberinfo-consumer-6081/src/main/java/com/longlong/repast/ApplicationRun6081.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-consumer-management/repast-app-memberinfo-consumer-6081/src/main/java/com/longlong/repast/aspect/LogAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-consumer-management/repast-app-memberinfo-consumer-6081/src/main/java/com/longlong/repast/config/Swagger2Config.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-consumer-management/repast-app-memberinfo-consumer-6081/src/main/java/com/longlong/repast/controller/MemberController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-consumer-management/repast-app-memberinfo-consumer-6081/src/main/resources/config/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-consumer-management/repast-app-memberinfo-consumer-6081/target/classes/com/longlong/repast/ApplicationRun6081.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-consumer-management/repast-app-memberinfo-consumer-6081/target/classes/com/longlong/repast/aspect/LogAspect.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-consumer-management/repast-app-memberinfo-consumer-6081/target/classes/com/longlong/repast/config/Swagger2Config.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-consumer-management/repast-app-memberinfo-consumer-6081/target/classes/com/longlong/repast/controller/MemberController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-consumer-management/repast-app-memberinfo-consumer-6081/target/classes/config/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-eureka-7082/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-eureka-management/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-eureka-management/repast-app-eureka-7081/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-eureka-management/repast-app-eureka-7081/src/main/java/com/longlong/repast/ApplicationRun7081.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-eureka-management/repast-app-eureka-7081/src/main/resources/config/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-eureka-management/repast-app-eureka-7081/target/classes/com/longlong/repast/ApplicationRun7081.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-eureka-management/repast-app-eureka-7081/target/classes/config/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-eureka-management/repast-app-eureka-7083/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-eureka-management/repast-app-eureka-7083/src/main/java/com/longlong/repast/ApplicationRun7083.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-eureka-management/repast-app-eureka-7083/src/main/resources/config/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-eureka-management/repast-app-eureka-7084/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-eureka-management/repast-app-eureka-7084/src/main/java/com/longlong/repast/ApplicationRun7084.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-eureka-management/repast-app-eureka-7084/src/main/resources/config/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-management/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-management/repast-app-management-api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-management/repast-app-management-api/src/main/java/com/longlong/repast/fallback/RepastFallBackFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-management/repast-app-management-api/src/main/java/com/longlong/repast/service/IRepastService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-management/repast-app-management-api/target/classes/com/longlong/repast/fallback/RepastFallBackFactory$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-management/repast-app-management-api/target/classes/com/longlong/repast/fallback/RepastFallBackFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-management/repast-app-management-api/target/classes/com/longlong/repast/service/IRepastService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-management/repast-app-management-mapper/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-management/repast-app-management-mapper/src/main/java/com/longlong/repast/mapper/LoginLogMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-management/repast-app-management-mapper/src/main/java/com/longlong/repast/mapper/MemberMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-management/repast-app-management-mapper/src/main/resources/mapper/LoginLogMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-management/repast-app-management-mapper/src/main/resources/mapper/MemberMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-management/repast-app-management-mapper/target/classes/com/longlong/repast/mapper/LoginLogMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-management/repast-app-management-mapper/target/classes/com/longlong/repast/mapper/MemberMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-management/repast-app-management-mapper/target/classes/mapper/LoginLogMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-management/repast-app-management-mapper/target/classes/mapper/MemberMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-management/repast-app-management-model/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-management/repast-app-management-model/src/main/java/com/longlong/repast/model/LoginLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-management/repast-app-management-model/src/main/java/com/longlong/repast/model/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-management/repast-app-management-model/src/main/java/com/longlong/repast/page/PageInfoS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-management/repast-app-management-model/target/classes/com/longlong/repast/model/LoginLog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-management/repast-app-management-model/target/classes/com/longlong/repast/model/Member.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-management/repast-app-management-model/target/classes/com/longlong/repast/page/PageInfoS.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-management/repast-app-management-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-management/repast-app-management-service/src/main/java/com/longlong/repast/base/BaseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-management/repast-app-management-service/src/main/java/com/longlong/repast/service/LoginLogService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-management/repast-app-management-service/src/main/java/com/longlong/repast/service/MemberService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-management/repast-app-management-service/target/classes/com/longlong/repast/base/BaseService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-management/repast-app-management-service/target/classes/com/longlong/repast/service/LoginLogService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-management/repast-app-management-service/target/classes/com/longlong/repast/service/MemberService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-parent.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-provider-management/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-provider-management/repast-app-memberinfo-provider-8081/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-provider-management/repast-app-memberinfo-provider-8081/src/main/java/com/longlong/repast/ApplicationRun8081.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-provider-management/repast-app-memberinfo-provider-8081/src/main/java/com/longlong/repast/controller/MemberController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-provider-management/repast-app-memberinfo-provider-8081/src/main/resources/config/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-provider-management/repast-app-memberinfo-provider-8081/src/main/resources/sql/qy_all.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-provider-management/repast-app-memberinfo-provider-8081/target/classes/com/longlong/repast/ApplicationRun8081.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-provider-management/repast-app-memberinfo-provider-8081/target/classes/com/longlong/repast/controller/MemberController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-provider-management/repast-app-memberinfo-provider-8081/target/classes/config/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-provider-management/repast-app-memberinfo-provider-8081/target/classes/sql/qy_all.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repast-app-zool-4081/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="longlong" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\IDEA_JAVATWO\repast-app-parent\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Yseqlo5kRgY840YqH05hBnVyFh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.longlong.repast" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IDEA_JAVATWO\repast-app-parent\repast-app-commen\src\main\java\com\longlong\repast\util" />
+      <recent name="D:\IDEA_JAVATWO\repast-app-parent\repast-app-management\repast-app-management-mapper\src\main\resources\mapper" />
+      <recent name="D:\IDEA_JAVATWO\repast-app-parent\repast-app-management\repast-app-management-mapper\src\main\java\com\longlong\repast\mapper" />
+      <recent name="D:\IDEA_JAVATWO\repast-app-parent\repast-app-management\repast-app-management-model\src\main\java\com\longlong\repast\model" />
+      <recent name="D:\IDEA_JAVATWO\repast-app-parent\repast-app-provider-management\repast-app-memberinfo-provider-8081\src\main\resources\sql" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ApplicationRun8081">
+    <configuration name="AddressUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.longlong.repast.util.AddressUtil" />
+      <module name="repast-app-commen" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.longlong.repast.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApplicationRun6081" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="repast-app-memberinfo-consumer-6081" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.longlong.repast.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.longlong.repast.ApplicationRun6081" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApplicationRun7081" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="repast-app-eureka-7081" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.longlong.repast.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.longlong.repast.ApplicationRun7081" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApplicationRun8081" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="repast-app-memberinfo-provider-8081" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.longlong.repast.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.longlong.repast.ApplicationRun8081" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ApplicationRun8081" />
+        <item itemvalue="Spring Boot.ApplicationRun6081" />
+        <item itemvalue="Spring Boot.ApplicationRun7081" />
+        <item itemvalue="Application.AddressUtil" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.29130775" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb6787f1-c232-44b5-b1ea-2a99b02ad054" name="Default Changelist" comment="" />
+      <created>1583735921453</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583735921453</updated>
+      <workItem from="1583735928496" duration="17587000" />
+      <workItem from="1583761974795" duration="21000" />
+      <workItem from="1583843953962" duration="15759000" />
+      <workItem from="1583932479144" duration="574000" />
+      <workItem from="1583933385482" duration="11480000" />
+      <workItem from="1583947641993" duration="4069000" />
+      <workItem from="1583977111918" duration="105000" />
+      <workItem from="1583995022872" duration="16753000" />
+      <workItem from="1584016603328" duration="4145000" />
+      <workItem from="1584021733716" duration="1267000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次提交" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="336" y="26" key="#Menus_and_Toolbars" timestamp="1584021948551">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="336" y="26" key="#Menus_and_Toolbars/0.0.1366.738@0.0.1366.738" timestamp="1584021948551" />
+    <state x="550" y="21" key="#Project_Structure" timestamp="1583846549315">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="550" y="21" key="#Project_Structure/0.0.1366.738@0.0.1366.738" timestamp="1583846549315" />
+    <state x="193" y="35" key="#SQL_Dialects" timestamp="1583858383404">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="193" y="35" key="#SQL_Dialects/0.0.1366.738@0.0.1366.738" timestamp="1583858383404" />
+    <state x="622" y="267" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1583745492219">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="622" y="267" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.1366.738@0.0.1366.738" timestamp="1583745492219" />
+    <state x="225" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583858350181">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="225" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1583858350181" />
+    <state x="781" y="155" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583854915956">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="781" y="155" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.738@0.0.1366.738" timestamp="1583854915956" />
+    <state x="570" y="83" key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog" timestamp="1584021927372">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="570" y="83" key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog/0.0.1366.738@0.0.1366.738" timestamp="1584021927372" />
+    <state x="809" y="54" key="#com.intellij.ide.util.MemberChooser" timestamp="1583947719103">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="809" y="54" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1583947719103" />
+    <state x="469" y="315" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1583997947965">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="469" y="315" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.738@0.0.1366.738" timestamp="1583997947964" />
+    <state x="552" y="230" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1583757377117">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="552" y="230" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.738@0.0.1366.738" timestamp="1583757377117" />
+    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1584022972581">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1584022972581" />
+    <state x="535" y="141" key="FileChooserDialogImpl" timestamp="1584022728526">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="535" y="141" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1584022728526" />
+    <state x="527" y="258" width="312" height="294" key="Github.ShareDialog" timestamp="1584020832098">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="527" y="258" width="312" height="294" key="Github.ShareDialog/0.0.1366.738@0.0.1366.738" timestamp="1584020832098" />
+    <state width="1306" height="19" key="GridCell.Tab.0.bottom" timestamp="1584016449780">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1306" height="19" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1584016449780" />
+    <state width="1306" height="19" key="GridCell.Tab.0.center" timestamp="1584016449780">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1306" height="19" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1584016449780" />
+    <state width="1306" height="19" key="GridCell.Tab.0.left" timestamp="1584016449779">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1306" height="19" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1584016449779" />
+    <state width="1306" height="19" key="GridCell.Tab.0.right" timestamp="1584016449780">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1306" height="19" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1584016449780" />
+    <state width="1306" height="19" key="GridCell.Tab.1.bottom" timestamp="1584016449781">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1306" height="19" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1584016449781" />
+    <state width="1306" height="19" key="GridCell.Tab.1.center" timestamp="1584016449780">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1306" height="19" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1584016449780" />
+    <state width="1306" height="19" key="GridCell.Tab.1.left" timestamp="1584016449780">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1306" height="19" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1584016449780" />
+    <state width="1306" height="19" key="GridCell.Tab.1.right" timestamp="1584016449781">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1306" height="19" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1584016449781" />
+    <state width="904" height="222" key="GridCell.Tab.2.bottom" timestamp="1584016449771">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="904" height="222" key="GridCell.Tab.2.bottom/0.0.1366.738@0.0.1366.738" timestamp="1584016449771" />
+    <state width="904" height="222" key="GridCell.Tab.2.center" timestamp="1584016449771">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="904" height="222" key="GridCell.Tab.2.center/0.0.1366.738@0.0.1366.738" timestamp="1584016449771" />
+    <state width="904" height="222" key="GridCell.Tab.2.left" timestamp="1584016449771">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="904" height="222" key="GridCell.Tab.2.left/0.0.1366.738@0.0.1366.738" timestamp="1584016449771" />
+    <state width="904" height="222" key="GridCell.Tab.2.right" timestamp="1584016449771">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="904" height="222" key="GridCell.Tab.2.right/0.0.1366.738@0.0.1366.738" timestamp="1584016449771" />
+    <state x="368" y="0" key="SettingsEditor" timestamp="1584020867268">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="368" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1584020867268" />
+    <state width="254" height="198" key="ShowFilterAction_Filter_Popup" timestamp="1583858425185">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="254" height="198" key="ShowFilterAction_Filter_Popup/0.0.1366.738@0.0.1366.738" timestamp="1583858425185" />
+    <state x="71" y="50" key="new project wizard" timestamp="1583850423680">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="71" y="50" key="new project wizard/0.0.1366.738@0.0.1366.738" timestamp="1583850423680" />
+    <state x="835" y="150" key="run.anything.popup" timestamp="1583944621187">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="835" y="150" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1583944621187" />
+    <state x="592" y="58" width="672" height="678" key="search.everywhere.popup" timestamp="1583950889475">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="592" y="58" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1583950889475" />
+  </component>
+</project>
